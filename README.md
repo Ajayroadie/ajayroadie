@@ -1,5 +1,5 @@
 - 👋 Hi, I am Ajay ...I am a enginner & Enterprenure
-- 👀 I’m interested in learing various computer program and delevoing software
+- 👀 I’m interested in learing various computer program and develpoing software
 - 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on python django
 - 📫 How to reach me ajaybhati21aug1992@gmail.com
