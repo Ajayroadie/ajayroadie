@@ -1,4 +1,4 @@
-- 👋 Hi, I am Ajay ...I am a enginner & Enterprenure
+- 👋 Hi, I am Ajay ...I am a Enginner, Teacher , Developer and Enterprenure
 - 👀 I’m interested in learing various computer program and develpoing software
 - 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on python django
